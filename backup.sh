@@ -1,0 +1,1 @@
+rsync --delete -an $YOGSTATION_BACKUP_DIRECTORY /backup
